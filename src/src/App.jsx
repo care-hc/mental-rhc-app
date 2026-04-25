@@ -3,7 +3,7 @@ import { useEffect, useState, useRef } from "react";
 const CONSENT_TEXT = `This platform supports mental health screening, coping skills, and crisis routing. It does not replace emergency care or diagnosis.`;
 
 const copingSkills = [
-  "5-4-3-2-1 Grounding",
+  "5-4-3--1 Grounding",
   "Box Breathing",
   "Muscle Relaxation",
   "Behavioral Activation",
